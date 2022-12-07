@@ -1,0 +1,42 @@
+{"books": [{
+  "id":1,
+  "movieName": " Wakanda Forever",
+  "year": 2022,
+  "released": true,
+  "rating": "4.5/5",
+  "Genres": "Action,Adventure"
+
+},
+{
+  "id":2,
+  "movieName": "God father",
+  "year": 2022,
+  "released": true,
+  "rating":3,
+  "Genres": "Political Drama"
+},
+{
+  "id":3,
+  "movieName": "Hit 2",
+  "year": 2023,
+  "released": false,
+  "rating": "4/5",
+  "Genres": "crime"
+
+},
+{
+  "id":4,
+  "movieName": "Avatqqqqqqqqqqqqqqar",
+  "year": 2022,
+  "released": true,
+  "rating":"4/5",
+  "Genres": "Action,Adventure,Fantasy"
+},
+{
+  "id":5,
+  "movieName": "Sardar",
+  "year": 2022,
+  "released": true,
+  "rating":"4.8/5",
+  "Genres": "Action,Drama"
+}]}
